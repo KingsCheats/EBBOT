@@ -1,0 +1,1 @@
+Go to data, settings.json, put the token where it says TOKEN HERE, and where it says CLIENT ID put the client ID.
